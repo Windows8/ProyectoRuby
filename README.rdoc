@@ -1,5 +1,7 @@
 == Welcome to Rails - WINDOWS8 2012
 
+PERU 2030 ---  MONTESINO ONLINE 5000
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
